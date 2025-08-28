@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Hus132
-- 👀 I’m interested in web development, particularly building dynamic and interactive web applications using Python and Flask.
-- 🌱 I’m currently learning how to build full-stack web applications with Flask and working on various projects to improve my skills in Python, HTML, CSS, and JavaScript.
-- 📫 How to reach me: GitHub or contact me via email at **hsen.farhat@hotmail.com**.
-- 😄 Pronouns: He/Him.
+- 👋 Hi, I’m Hussein (@Hus132)
+- 💻 I have a background in IT support, troubleshooting, and compliance, and I’m now focusing on Cloud technologies and automation.
+- 🌱 Currently learning Microsoft Azure fundamentals, Office 365 administration, and containerization with Docker and Kubernetes. Exploring Infrastructure as Code with Terraform.
+- 🚀 Interested in Cloud Administration, DevOps, and system automation.
+- 📂 Working on projects that help me understand cloud services, scripting, and deployment workflows.
+- 📫 You can reach me via email: **hsen.farhat@hotmail.com**
+- 😄 Pronouns: He/Him
 
 <!---
 Hus132/Hus132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
